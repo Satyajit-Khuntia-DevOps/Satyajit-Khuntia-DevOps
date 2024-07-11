@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Satyajit-Khuntia-DevOps  <img src="https://github.com/Satyajit-Khuntia-DevOps/Satyajit-Khuntia-DevOps/blob/main/Animation%20-%201716872744655.gif?raw=true![image](https://github.com/Satyajit-Khuntia-DevOps/Satyajit-Khuntia-DevOps/assets/161194612/6408d69b-2cb8-4d18-86e1-52f98239a599)
-" alt="Alt text" width="WIDTH" height="HEIGHT">
+- 👋 Hi, I’m @Satyajit-Khuntia-DevOps  <img src="https://github.com/Satyajit-Khuntia-DevOps/Satyajit-Khuntia-DevOps/blob/main/Animation%20-%201716872744655.gif?raw=true" alt="Alt text" width="WIDTH" height="HEIGHT">![image](https://github.com/Satyajit-Khuntia-DevOps/Satyajit-Khuntia-DevOps/assets/161194612/3e9083ba-8b04-4c4c-9531-c3b73c3a9997)
+
 
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
