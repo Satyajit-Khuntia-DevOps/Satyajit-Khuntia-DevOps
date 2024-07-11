@@ -1,5 +1,5 @@
 <img src="https://github.com/Satyajit-Khuntia-DevOps/Satyajit-Khuntia-DevOps/blob/main/Animation%20-%201716872744655.gif?raw=true" alt="Alt text" width="WIDTH" height="HEIGHT">
-- 👋 Hi, I’m @Satyajit-Khuntia-DevOps <br>
+- 👋 Hi, I’m @Satyajit-Khuntia <br>
 - 👀 I’m interested in ...<br>
 - 🌱 I’m currently learning ...<br>
 - 💞️ I’m looking to collaborate on ...<br>
